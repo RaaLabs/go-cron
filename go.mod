@@ -1,4 +1,4 @@
-module github.com/craigbryson/go-cron
+module github.com/raalabs/go-cron
 
 go 1.18
 
